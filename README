@@ -1,0 +1,7 @@
+
+
+    rake build
+    cd test/rails_root/
+    bundle install
+    cd ../../
+    rake test
